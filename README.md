@@ -1,15 +1,31 @@
 # Quantum-Viewer
 
-Points to remember while recreating
+### Note:
+No Conda virtual environment or Jupyter was used for this project.
 
-1. Install tkinter and qiskit in a virtual environment
-2. Paste the files from github (or clone) into the environment
-3. Use conda virtual environment, installing qiskit with pip can lead to issues
-4. Use Python version 3.8.10, qiskit has issues with version 3.9
+### About: 
 
-Built using: Python, Tkinter, Qiskit
+![image](https://user-images.githubusercontent.com/64016811/234301933-90c9c2b9-3238-4d12-bb05-fe61ce9d48ee.png)
 
-How the Visualizer looks?
+
+### Techs used: 
+
+- Python 
+- Tkinter 
+- Qiskit
+
+### Installables:
+
+```pip install numpy```
+```pip install qiskit```
+```pip install matlplotlib```
+
+### Screenshots:
+
+![image](https://user-images.githubusercontent.com/64016811/234300522-da054835-e2ec-46ba-9dc7-b7c565d34902.png)
+![image](https://user-images.githubusercontent.com/64016811/234301542-f3a19895-9bdd-44bd-8a23-3bbb46cf8f20.png)
+
+
 
 
 
